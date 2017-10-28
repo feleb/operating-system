@@ -1,0 +1,2 @@
+all:
+gcc -pthread -w pr.c -o out
